@@ -1,2 +1,2 @@
 # Discord bot write for university
- Hmmmmmm
+Its is a normal bot welcome contribute :)
